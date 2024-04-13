@@ -1,6 +1,37 @@
-# Writing in Bookdown {#write}
+# Utilisation de Drone par le PAM {#Utilisation-de-Drone-par-le-PAM}
 
-Coming soon: 
+## Livraison de Marchandises
 
-- Adding chapters
-- Citations
+WFP Aviation s'engage à optimiser et à améliorer ses capacités de livraison de marchandises grâce à la technologie pour atteindre la dernière mile. Depuis 2019, le PAM explore l'utilisation de systèmes de drones pilotés à distance (RPAS) pour les opérations de livraison d'approvisionnement dans les zones présentant des contraintes d'accès importantes. L'utilisation de RPAS pourrait contribuer à réduire les risques associés à la sécurité du personnel dans les environnements conflictuels et les endroits reculés. Le PAM collabore également de manière proactive avec les autorités de l'aviation civile, y compris l'OACI et l'IATA, ainsi qu'avec d'autres agences des Nations Unies et le groupe de coordination des chaînes d'approvisionnement interagences pour développer des cadres opérationnels pour les RPAS à usage humanitaire.
+
+## Communication
+
+Une image prise depuis les cieux peut souvent aider à transmettre une vision plus large et à contextualiser l'ampleur des activités humanitaires sur le terrain. De plus en plus, les drones deviennent un outil puissant de narration, ouvrant de nouveaux horizons tout en minimisant les risques d'exposition pour les humanitaires sur le terrain.
+
+## Participation communautaire
+
+Les cartes de préparation et de réponse aux urgences permettent aux communautés de participer activement à l'évaluation des risques, de déterminer des stratégies d'adaptation et de prendre des décisions plus éclairées. À la suite d'une catastrophe, les informations en temps réel peuvent permettre aux membres de la communauté d'identifier les dommages à leurs habitations, cultures et zones environnantes. Les cartes produites à partir d'images de drones peuvent également être imprimées et utilisées lors de dialogues communautaires entre les populations locales et les humanitaires, renforçant la collaboration dans la réponse.
+
+## Connectivité
+
+Le PAM explore l'utilisation des drones pour fournir une connectivité dans les zones reculées où la couverture est limitée ou inexistante, ainsi que pendant les situations d'urgence. En tant que solution rentable et rapidement déployable capable de couvrir de vastes zones, les drones peuvent être équipés de matériel de connectivité mobile et Internet pour combler les lacunes de couverture réseau.
+
+## Suivi des cultures
+
+La santé des cultures et les conditions du sol peuvent être surveillées en utilisant une combinaison d'images de drones et d'analyse logicielle. Les drones équipés de caméras multispectrales peuvent être utilisés à des fins agricoles en capturant des données d'indice de végétation par différence normalisée (NDVI). Le NDVI utilise des algorithmes pour décoder la quantité de lumière absorbée et réfléchie par une culture afin d'aider à déterminer sa santé. Le PAM explore actuellement ces applications pour renforcer les moyens de subsistance locaux et la sécurité alimentaire.
+
+## Évaluation des dommages
+
+Dans les suites d'une catastrophe, l'accès à l'information est crucial pour allouer les ressources et atteindre les personnes ayant besoin d'aide. Avoir une vue d'ensemble peut aider les humanitaires à mieux appréhender l'ensemble de la situation. Les drones peuvent fournir des évaluations rapides des dommages post-catastrophe et cartographier de grandes zones avec précision, ce qui permet d'économiser du temps et d'améliorer l'efficacité de la réponse d'urgence.
+
+## Modélisation des inondations
+
+Les drones ouvrent de nouvelles possibilités dans les activités de gestion des catastrophes avec la cartographie et la modélisation des dangers. Le PAM utilise des drones pour collecter des données, cartographier et modéliser les plaines inondables, ainsi que pour créer des profils de préparation aux catastrophes dans les zones à haut risque. Les données des drones peuvent être analysées pour soutenir la prise de décision au niveau national et local et renforcer la planification de la préparation aux urgences avant qu'une catastrophe ne survienne.
+
+## Recherche et Sauvetage
+
+Lorsque des vies sont en jeu, chaque seconde compte. Après une catastrophe, les missions de recherche et de sauvetage exigent rapidité et agilité. L'accès aux lieux est souvent un défi car les infrastructures sont endommagées. Les drones offrent un outil rapidement déployable qui peut couvrir de vastes zones. Équipés de caméras infrarouges, ils peuvent détecter des éléments que l'œil humain ne peut pas voir, ce qui permet de gagner du temps et d'améliorer les résultats des missions de recherche et de sauvetage.
+
+## Études de site et Ligne de Vue
+
+Installer des liens radio fiables et des réseaux de communication est essentiel pour fournir une connectivité lors des interventions d'urgence. Choisir le bon site ou simplement acquérir rapidement et avec précision une ligne de vue pour les installations de réseau peut être difficile dans les contextes humanitaires. Les drones offrent une précision allant jusqu'au centimètre tout en minimisant l'exposition des humanitaires aux risques.
