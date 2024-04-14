@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapitre 3 Utilisation de Drone par le PAM | Drone Guidance WFP Cameroun Country Office</title>
+  <title>Chapitre 3 Utilisation de Drone par le PAM | Guide pour l’utilisation de drone PAM Cameroun</title>
   <meta name="description" content="Un guidance simple pour expliquer l’utilisation des drônes" />
   <meta name="generator" content="bookdown 0.38 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapitre 3 Utilisation de Drone par le PAM | Drone Guidance WFP Cameroun Country Office" />
+  <meta property="og:title" content="Chapitre 3 Utilisation de Drone par le PAM | Guide pour l’utilisation de drone PAM Cameroun" />
   <meta property="og:type" content="book" />
   
   <meta property="og:description" content="Un guidance simple pour expliquer l’utilisation des drônes" />
   <meta name="github-repo" content="openscapes/series" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapitre 3 Utilisation de Drone par le PAM | Drone Guidance WFP Cameroun Country Office" />
+  <meta name="twitter:title" content="Chapitre 3 Utilisation de Drone par le PAM | Guide pour l’utilisation de drone PAM Cameroun" />
   
   <meta name="twitter:description" content="Un guidance simple pour expliquer l’utilisation des drônes" />
   
@@ -32,7 +32,7 @@
   
   
 <link rel="prev" href="Condition-Utilisation-de-Drone-au-Cameroun.html"/>
-
+<link rel="next" href="Logiciel-et-appplication-mobile-à-télécharger.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -53,6 +53,11 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script src="libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<script src="libs/echarts4r-4.8.0/echarts-en.min.js"></script>
+<script src="libs/echarts4r-4.8.0/ecStat.min.js"></script>
+<script src="libs/echarts4r-4.8.0/dataTool.min.js"></script>
+<script src="libs/echarts4r-binding-0.4.4/echarts4r.js"></script>
 
 
 
@@ -79,7 +84,7 @@
 <li><a href="./">Drone tutoriel Cameroun</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Contacts</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Utilisation du Guide</a></li>
 <li class="chapter" data-level="2" data-path="Condition-Utilisation-de-Drone-au-Cameroun.html"><a href="Condition-Utilisation-de-Drone-au-Cameroun.html"><i class="fa fa-check"></i><b>2</b> Condition Utilisation de Drone au Cameroun</a></li>
 <li class="chapter" data-level="3" data-path="Utilisation-de-Drone-par-le-PAM.html"><a href="Utilisation-de-Drone-par-le-PAM.html"><i class="fa fa-check"></i><b>3</b> Utilisation de Drone par le PAM</a>
 <ul>
@@ -93,6 +98,11 @@
 <li class="chapter" data-level="3.8" data-path="Utilisation-de-Drone-par-le-PAM.html"><a href="Utilisation-de-Drone-par-le-PAM.html#recherche-et-sauvetage"><i class="fa fa-check"></i><b>3.8</b> Recherche et Sauvetage</a></li>
 <li class="chapter" data-level="3.9" data-path="Utilisation-de-Drone-par-le-PAM.html"><a href="Utilisation-de-Drone-par-le-PAM.html#études-de-site-et-ligne-de-vue"><i class="fa fa-check"></i><b>3.9</b> Études de site et Ligne de Vue</a></li>
 </ul></li>
+<li class="chapter" data-level="4" data-path="Logiciel-et-appplication-mobile-à-télécharger.html"><a href="Logiciel-et-appplication-mobile-à-télécharger.html"><i class="fa fa-check"></i><b>4</b> Logiciel et appplication mobile à télécharger</a></li>
+<li class="chapter" data-level="5" data-path="Pratique-Logiciel-et-Drone.html"><a href="Pratique-Logiciel-et-Drone.html"><i class="fa fa-check"></i><b>5</b> Pratique Logiciel et Drone</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="Pratique-Logiciel-et-Drone.html"><a href="Pratique-Logiciel-et-Drone.html#google-earth-pro"><i class="fa fa-check"></i><b>5.1</b> Google earth pro</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
 
@@ -105,7 +115,7 @@
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Drone Guidance WFP Cameroun Country Office</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Guide pour l’utilisation de drone PAM Cameroun</a>
           </h1>
         </div>
 
@@ -150,6 +160,9 @@
 <div id="études-de-site-et-ligne-de-vue" class="section level2 hasAnchor" number="3.9">
 <h2><span class="header-section-number">3.9</span> Études de site et Ligne de Vue<a href="Utilisation-de-Drone-par-le-PAM.html#études-de-site-et-ligne-de-vue" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Installer des liens radio fiables et des réseaux de communication est essentiel pour fournir une connectivité lors des interventions d’urgence. Choisir le bon site ou simplement acquérir rapidement et avec précision une ligne de vue pour les installations de réseau peut être difficile dans les contextes humanitaires. Les drones offrent une précision allant jusqu’au centimètre tout en minimisant l’exposition des humanitaires aux risques.</p>
+<hr />
+<p>Pour plus d’informations veuillez consulter le site :</p>
+<p><a href="https://drones.wfp.org/"><strong>https://drones.wfp.org/</strong></a></p>
 
 </div>
 </div>
@@ -158,8 +171,8 @@
           </div>
         </div>
       </div>
-<a href="Condition-Utilisation-de-Drone-au-Cameroun.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-
+<a href="Condition-Utilisation-de-Drone-au-Cameroun.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="Logiciel-et-appplication-mobile-à-télécharger.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

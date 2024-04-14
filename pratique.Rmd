@@ -1,0 +1,24 @@
+# Pratique Logiciel et Drone {#Pratique-Logiciel-et-Drone}
+
+On commence par localiser l'endroit qu'on souhaite cartogarhier ou l'endroit ou l'on souhaite intervenir
+
+## Google earth pro
+Google Earth Pro est utilisé pour l'exploration géographique, la planification, la visualisation de données et la création de contenu visuel pour diverses applications professionnelles et personnelles.
+
+* Mettre les coordonnées ou photo ou nom de la zone à cartographier ou a parcourir par drone dans la zone recherche. par exemple **4.572147000°** et **13.598567000°** qui représente respectivement les latitudes et longitudes de la zone.
+Vous verrez par la suite une image de la zone avec 2 classes
+
+```{r echo=FALSE,  out.width = '45%',fig.show='hold', fig.height=6}
+knitr::include_graphics("pratique/earth3.png")
+knitr::include_graphics("pratique/earth2.PNG")
+```
+
+***
+**Veuillez noter que la rédaction de ce guide n'est pas encore finalisée**
+
+
+
+
+
+
+

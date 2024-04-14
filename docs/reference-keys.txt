@@ -1,4 +1,4 @@
-Contacts
+Utilisation-du-Guide
 Condition-Utilisation-de-Drone-au-Cameroun
 Utilisation-de-Drone-par-le-PAM
 livraison-de-marchandises
@@ -10,3 +10,6 @@ suivi-des-cultures
 modélisation-des-inondations
 recherche-et-sauvetage
 études-de-site-et-ligne-de-vue
+Logiciel-et-appplication-mobile-à-télécharger
+Pratique-Logiciel-et-Drone
+google-earth-pro
