@@ -36,8 +36,8 @@ Lorsque des vies sont en jeu, chaque seconde compte. Après une catastrophe, les
 
 Installer des liens radio fiables et des réseaux de communication est essentiel pour fournir une connectivité lors des interventions d'urgence. Choisir le bon site ou simplement acquérir rapidement et avec précision une ligne de vue pour les installations de réseau peut être difficile dans les contextes humanitaires. Les drones offrent une précision allant jusqu'au centimètre tout en minimisant l'exposition des humanitaires aux risques.
 
-*** 
+------------------------------------------------------------------------
+
 Pour plus d'informations veuillez consulter le site :
 
 [**https://drones.wfp.org/**](https://drones.wfp.org/)
-

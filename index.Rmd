@@ -1,4 +1,4 @@
---- 
+---
 title: "Guide pour l'utilisation de drone PAM Cameroun"
 author: 
   - "Wanja KAARIA / Aboubacar GUINDO"
@@ -16,17 +16,16 @@ description: "Un guidance simple pour expliquer l'utilisation des drônes"
 
 # Utilisation du Guide {#Utilisation-du-Guide}
 
-![](C:/Users/USER MSI/Documents/R Project/wfpCamerounDroneGuidance/IMG-20240411-WA0029.jpg)
+![](C:/Users/USER%20MSI/Documents/R%20Project/wfpCamerounDroneGuidance/IMG-20240411-WA0029.jpg)
 
-
-----
+------------------------------------------------------------------------
 
 Pour toutes questions ou difficulté par rapport à la pratique veuillez contacter l'un des staffs ci-dessous:
 
-[**Idrissa Dabo**](idrissa.dabo@wfp.org), [**Cedric Matsaguim**](cedric.matsaguim@wfp.org), [**Naomi Joy.Akengjuh**](naomi-joy.akengjuh@wfp.org), 
-[**Frank Pitouo**](frank-hermann.pitouo@wfp.org), [**Dorcas Molo**](dorcas.molo@wfp.org), [**Claude Dawai**](claude.dawai@wfp.org), [**Jordan Onana**](jordan.onana@wfp.org), [**Parfait Tchonang**](parfait.tchonang@wfp.org), [**Joseph Fambove**](josephmarie.fambove@wfp.org), [**Maurice Barr**](maurice.barr@wfp.org) et [**Ibrahim Adamu**](ibrahim.adamu@wfp.org).
+[**Idrissa Dabo**](idrissa.dabo@wfp.org), [**Cedric Matsaguim**](cedric.matsaguim@wfp.org), [**Naomi Joy.Akengjuh**](naomi-joy.akengjuh@wfp.org), [**Frank Pitouo**](frank-hermann.pitouo@wfp.org), [**Dorcas Molo**](dorcas.molo@wfp.org), [**Claude Dawai**](claude.dawai@wfp.org), [**Jordan Onana**](jordan.onana@wfp.org), [**Parfait Tchonang**](parfait.tchonang@wfp.org), [**Joseph Fambove**](josephmarie.fambove@wfp.org), [**Maurice Barr**](maurice.barr@wfp.org) et [**Ibrahim Adamu**](ibrahim.adamu@wfp.org).
 
-----
+------------------------------------------------------------------------
+
 **Formateurs**
 
 [**Patrick Mckay**](patrick.mckay@wfp.org)
@@ -34,6 +33,3 @@ Pour toutes questions ou difficulté par rapport à la pratique veuillez contact
 [**Jean Claude Atass Laouwayi**](jeanclaudeatassa.laouwayi@wfp.org)
 
 [**Mighty Tladi**](mighty.tladi@wfp.org)
-
-
-

@@ -1,8 +1,5 @@
 # Logiciel et appplication mobile à télécharger {#Logiciel-et-appplication-mobile-à-télécharger}
 
-
-
-
 ```{r echo=FALSE}
 library(echarts4r)
 logiciel <-  tibble::tibble(
@@ -22,8 +19,8 @@ logiciel <-  tibble::tibble(
 
 ```
 
+------------------------------------------------------------------------
 
-***
 **Logo Logiciel**
 
 ```{r  echo=FALSE,  out.width = '33%',fig.show='hold'}
@@ -33,7 +30,8 @@ knitr::include_graphics("qgis-logo.png")
 
 ```
 
-***
+------------------------------------------------------------------------
+
 **Logo Application Smartphone**
 
 ```{r  echo=FALSE,  out.width = '50%',fig.show='hold'}
