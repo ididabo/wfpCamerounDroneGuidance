@@ -42,4 +42,4 @@ Le site web [**https://app.dronelink.com/**](https://app.dronelink.com/) est une
 
 1. Commencez par vous connecter au site web en utilisant votre nom d'utilisateur ou votre adresse e-mail, ainsi que votre mot de passe. Remarque : pour un accès illimité au site web, des frais d'environ 110 $ sont requis. Pour les membres dédiés du personnel du PAM au Cameroun souhaitant obtenir un accès au site web, veuillez contacter [**Idrissa Dabo**](idrissa.dabo@wfp.org) ou [**Cedric Matsaguim**](cedric.matsaguim@wfp.org) pour vous connecter au projet PAM Cameroun.
 
-2. Résumé de la manière de créer un projet et de déterminer l'itinéraire du drone
+2. Résumé de la manière de créer un projet et de déterminer l'itinéraire du drone dans dronelink
